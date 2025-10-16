@@ -16,7 +16,7 @@ gzip = true
     description = 'Anything and everything I like.'
     dark_mode = true
 
-    front_page_content = ["posts"]
+    front_page_content = ["about"]
 
     menu = [
         {Name = "About", URL = "/about/", HasChildren = false},
