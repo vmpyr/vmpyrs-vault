@@ -1,0 +1,42 @@
+.sidebar-about img {
+    border-radius: 5%;
+}
+
+.sidebar-about h1 {
+    font-family: 'fira-sans', sans-serif;
+}
+
+ul.entries h3 {
+    text-align: left !important;
+}
+
+div.headline time {
+    margin-right: 0.5em;
+}
+
+.reading-time {
+    margin-left: 0.5em;
+}
+
+div.container.sidebar-sticky {
+    display: flex;
+    flex-direction: column; /* stack items vertically */
+    height: 100%;
+}
+
+.side-footer {
+    margin-top: auto;
+}
+
+.bullet {
+    text-decoration: none;
+}
+
+.post hr {
+    margin-top: 3em;
+    margin-bottom: 0;
+}
+
+.post {
+    margin-bottom: 0;
+}
