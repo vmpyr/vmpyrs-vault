@@ -2,9 +2,10 @@
 title = 'About'
 date = 2025-03-16T04:33:32-07:00
 draft = false
+hideToc = true
 +++
 
-# Hello!
+## Hello!
 
 My name is Ujjwal Sarswat, and I tinker with tech, usually.
 
@@ -14,17 +15,17 @@ If something on here looks like hot garbage, or you just want to ask me somethin
 
 Feel free to sign me up for as many spam mailing lists as you like, I can take it.
 
-# What do I do, specifically?
+## What do I do, specifically?
 
 Oh, you want details? Sure.
 
 Currently, I am a Python Toolchain Developer at [Canonical](https://canonical.com), working on the, you guessed it, [Toolchains](https://elvira.canonical.com/toolchains) team. The team primarily focuses on enhancing developer experience on Ubuntu. More of my history [here](https://www.linkedin.com/in/ujjwal-sarswat).
 
-# Current headspace occupiers
+## Current headspace occupiers
 
 I am (trying to) write a [driver](https://github.com/vmpyr/hid-shanwan) for a cheap chinese gamepad by capturing and understanding its USB packet data. I am also learning more about cryptography, zero-knowledge proofs and kindle modding.
 
-# Other interests
+## Other interests
 
 I am an avid Formula 1 fan (unfortunately, cheering for Ferrari). I also enjoy reading, music and video games with my friends.
 
