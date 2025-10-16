@@ -25,7 +25,7 @@ gzip = true
 
     github_url = "https://github.com/vmpyr"
     linkedin_url = "https://linkedin.com/in/ujjwal-sarswat"
-    email_url = "mailto://ujjwalsarswat1@gmail.com"
+    email_url = "mailto:ujjwalsarswat1@gmail.com"
 
     # Adds an RSS icon to the end of the socials which links to {{ .Site.BaseURL }}/index.xml
     rss_icon = true
