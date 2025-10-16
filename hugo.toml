@@ -1,0 +1,6 @@
+baseURL = 'https://blog.chhui.net/'
+languageCode = 'en-us'
+title = "vmpyr's vault"
+theme = 'poison'
+minify = true
+gzip = true
