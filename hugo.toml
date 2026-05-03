@@ -1,4 +1,4 @@
-baseURL = 'https://blog.chhui.net/'
+baseURL = 'https://vmpyr.me/'
 languageCode = 'en-us'
 title = "vmpyr's vault"
 theme = 'poison'
@@ -11,7 +11,7 @@ gzip = true
     brand_image = "/images/blog.png"
     # og_image = ""                             # path to social icon - front matter: image takes precedent, then og_image, then brand_url
     # publisher_icon = ""                       # path to publisher icon - defaults to favicon, used in schema
-    favicon = "/images/blog.ico"                              # path to favicon
+    favicon = "/images/blog.ico"                # path to favicon
     description = 'Anything and everything I like.'
     dark_mode = true
 
